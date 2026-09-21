@@ -1,4 +1,4 @@
-# Legacy University Portal Modernization
+# A Legacy University Portal Modernization
 A legacy monolithic University Portal processes applications and admissions, student tuition billing and allows student access to assignments and learning materials through a single centralized database.
 
 **Scenario:** During peak hours, concurrent web traffic overloads the monolithic database. This exhaustion crashes the entire platform, thereby preventing applicants from submitting forms, students from turning in coursework, and the finance office from processing payments.
